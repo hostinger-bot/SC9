@@ -556,16 +556,16 @@ case 'runtime': { m.reply('4 days, 9 hours, 26 minutes')}
           break
    
             case 'noenc': {
-            ana = fs.readFileSync('./sc/XaviorV2.zip')
+            ana = fs.readFileSync('./sc/sc.zip')
                           goblok = fs.readFileSync('./video/ara-nabila.mp3')
 xavior.sendMessage(m.chat, {audio: goblok, mimetype:'audio/mpeg', ptt:true }, {quoted:m})
- xavior.sendMessage(m.chat, {document: ana, mimetype: 'application/zip', fileName: `XaviorV2.zip`}, {quoted:m})}
+ xavior.sendMessage(m.chat, {document: ana, mimetype: 'application/zip', fileName: `sc.zip`}, {quoted:m})}
             break
             
             case 'session': {
             if (!isCreator) throw mess.owner
             ana = fs.readFileSync('./Xavior.json')
-              m.reply('*Woe Bre Minimal Subscribe Yt MBY•OFFICIAL Lah*')
+              m.reply('Hmmm dahlah')
             xavior.sendMessage(m.chat, {document: ana, mimetype: 'application/json', fileName: `Xavior.json`}, {quoted:m})}
             break
             
