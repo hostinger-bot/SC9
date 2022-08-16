@@ -1,5 +1,3 @@
-// Klo Udah Di Kasih Free Minimal Nama Yutup MBY•OFFICIAL Ditaruh Yah :)
-
 require('./config')
 const { BufferJSON, WA_DEFAULT_EPHEMERAL, generateWAMessageFromContent, proto, generateWAMessageContent, generateWAMessage, prepareWAMessageMedia, areJidsSameUser, getContentType } = require('@adiwajshing/baileys')
 const fs = require('fs')
@@ -534,25 +532,25 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
   goblok = fs.readFileSync('./video/ga.jpg')
-                xavior.sendMessage(m.chat, { image: goblok, caption: `┌──⭓ *Sewa Bot*
+                xavior.sendMessage(m.chat, { image: goblok, caption: `┌──⭓ *Sewa Bot*
+
 │⭔ 1 Minggu :10k
 │⭔ 1 Bulan :15k
 │⭔ Permanen :20k
 └───────⭓
-┌──⭓ *Jadi Bot*
-│⭔ Jasa Jadi Bot: 30k
-│⭔ Jadi Owner AzzBot: 15k
+┌──⭓ *Jadi Bot*
+
+│⭔ 
 └───────⭓
-┌──⭓ *Harga Sc Bot Wa*
-│⭔ Versi 1 :20k
-│⭔ Versi 2 :25k
-│⭔ Free :Di Yt MBY•OFFICIAL
+┌──⭓ *Harga Sc Bot Wa*
+
+│
 └───────⭓` }, { quoted: m })
             }
             case 'subscribe':{
             smeme = fs.readFileSync('./video/bro.mp4')
 
-xavior.sendMessage(m.chat, { video: smeme, mimetype: 'video/mp4', fileName: `subrek.mp4`, caption: `Betewe Lu Dah Janji Mau Subscribe\n\nJangan PHP Yah 😊\n\nSubscibe:https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g`},{ quoted: m })} break
+xavior.sendMessage(m.chat, { video: smeme, mimetype: 'video/mp4', fileName: `subrek.mp4`, caption: `Betewe Lu Dah Janji Mau Subscribe\n\nJangan PHP Yah 😊\n\nSubscibe:https://github.com/BOTCAHX`},{ quoted: m })} break
 
 case 'runtime': { m.reply('4 days, 9 hours, 26 minutes')}
           break
@@ -1241,12 +1239,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1280,7 +1278,7 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -2946,7 +2944,7 @@ Ketik (.menu) Untuk Mengakses
 Mau Script? Bisa Chat Owner
 Thanks Sudah Menggunakan
 AzzBot-MD Jangan Lupa Subscribe
-Chanel : https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g
+Chanel : https://github.com/BOTCAHX
 Nih Musik Buat Menghibur
 ───────⭓`
             let btn = [{
@@ -2979,9 +2977,9 @@ break
                 anu = `
 
 ┌──⭓ *𝘈𝘻𝘻𝘉𝘰𝘵•𝘔𝘋*
-│⭔ 𝘖𝘸𝘯𝘦𝘳:𝗬𝗮𝗵𝘆𝗮 
-│⭔ 𝘝𝘦𝘳𝘴𝘪𝘰𝘯: 4.0
-│⭔ 𝘙𝘶𝘯𝘝𝘪𝘢:𝘏𝘦𝘳𝘰𝘬𝘶
+│⭔ Owner : TioXd
+│⭔ Version : 1
+│⭔ Multi Device 
 └───────⭓
 
 
@@ -3303,31 +3301,30 @@ break
 │
 └───────⭓
 
-𝐀𝐳𝐳𝐁𝐨𝐭•𝐌𝐃
-𝐁𝐲:𝐘𝐚𝐡𝐲𝐚𝐆𝐚𝐧𝐳𝐳|𝘷𝘦𝘳𝘴𝘪𝘰𝘯 4.0`
+By TioXd`
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like👍',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3375,26 +3372,26 @@ break
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3430,26 +3427,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3491,26 +3488,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3547,26 +3544,26 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3611,26 +3608,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3689,26 +3686,26 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3748,26 +3745,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3804,26 +3801,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3865,26 +3862,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -3942,26 +3939,26 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -4007,26 +4004,26 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -4064,26 +4061,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -4119,26 +4116,26 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -4169,26 +4166,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -4220,26 +4217,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -4278,26 +4275,26 @@ case 'webzone': {
                  let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
@@ -4339,26 +4336,26 @@ case 'webzone': {
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Script',
-                                    url: 'https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g'
+                                    url: 'https://github.com/BOTCAHX'
                                 }
                             }, {
                                 callButton: {
                                     displayText: 'Contact Owner',
-                                    phoneNumber: '+62 815-1148-0762'
+                                    phoneNumber: '+62 822-2179-2667'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: '✰➪Tutor',
+                                    displayText: 'Tutor',
                                     id: 'tutor'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Donasi☕︎',
+                                    displayText: 'Donasi',
                                     id: 'donasi'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Like👍..',
+                                    displayText: 'Like',
                                     id: 'subscribe'
                                 }
                             }]
